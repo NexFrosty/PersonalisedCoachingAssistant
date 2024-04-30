@@ -1,0 +1,43 @@
+Forward:
+* Goals
+* Headed goals
+* Goals with right foot
+* Goals with left foot
+* Shooting accuracy %
+* Passes per match
+
+Midfielder
+* Goals
+* Headed goals
+* Goals with right foot
+* Goals with left foot
+* Shooting accuracy %
+* Cross accuracy %
+* Tackle success %
+* Duels won
+* Duesl lost
+* Aerial battles won
+* Aerial battles lost
+* Passes per match
+
+Defender
+* Appearances
+* Tackle success %
+* Clearances
+* Headed Clearance
+* Duels won
+* Duels lost
+* Aerial battles won
+* Aerial battles lost
+* Cross accuracy %
+* Passes per match
+
+Goalkeeper
+* Saves
+* Penalties Saved
+* Punches
+* Catches
+* Sweeper clearances
+* Goal Kicks
+* Clean sheets
+* Passes per match

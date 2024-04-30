@@ -1,0 +1,7 @@
+Pillow
+customtkinter
+rich
+pandas
+requests
+selenium
+webdriver-manager
